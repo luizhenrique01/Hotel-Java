@@ -1,5 +1,5 @@
 #out prod files
-*.out
+out/*
 
 # Compiled class file
 *.class
