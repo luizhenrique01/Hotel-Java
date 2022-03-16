@@ -3,7 +3,6 @@ package com.lhuizito.notebook;
 import model.*;
 import java.util.ArrayList;
 import java.util.stream.Stream;
-
 import static java.util.Arrays.stream;
 import static java.util.Comparator.comparing;
 
